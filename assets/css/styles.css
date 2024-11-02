@@ -384,6 +384,8 @@ video {
   font-family: inherit;
   text-wrap: balance;
   color: inherit;
+  line-height: 25px;
+  font-size: medium;
 }
 
 .heading-xl {
@@ -422,7 +424,7 @@ video {
           user-select: none;
   outline: none;
   border: none;
-  border-radius: 0.25rem;
+  border-radius: 1.1rem;
   text-transform: unset;
   transition: all 0.3s ease-in-out;
 }
