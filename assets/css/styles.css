@@ -386,6 +386,8 @@ video {
   color: inherit;
   line-height: 25px;
   font-size: medium;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 .heading-xl {
