@@ -472,7 +472,7 @@ a{
     height: fit-content;
     margin-top: 10vh;
     padding: 7vh 7%;
-    border: solid 5px #E29D9F;
+    border: solid 5px #171c26;
     border-radius: 20px;
 }
 
@@ -634,7 +634,7 @@ a{
         height: fit-content;
         margin-top: 7vh;
         padding: 3vh 5%;
-        border: solid 5px #E29D9F;
+        border: solid 5px #171c26;
         border-radius: 20px;
     }
     .linkHolder{
@@ -669,7 +669,7 @@ a{
     }
     
     .semOne, .semTwo, .semThree{
-        border: solid 7px #E29D9F;
+        border: solid 7px #171c26;
         border-radius: 30px;
     }
 }
